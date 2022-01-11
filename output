@@ -1,0 +1,74 @@
+#Output for Question1
+Input Number 1.
+21
+Input Number 2.
+34
+Input Number 3.
+56
+The average of above 3 numbers is 37.000000.
+
+
+
+#Output for Question2
+Enter the gross income
+32456.45
+Enter the number of dependents
+2
+Income Tax is $3291.
+
+
+
+
+#Output for question3
+Enter the student ID
+21103110
+Enter the Student Name
+Anshuman Kalra
+Enter Gender 'F' for female , 'M' for male,  'U' for unknown
+M
+Enter Course Name
+Computer Science
+Enter CGPA
+10.00
+[21103110, 'Anshuman Kalra', 'M', 'Computer Science', 10.0]
+
+
+
+
+#Output for Question4
+Enter the marks of student 1.
+23
+Enter the marks of student 2.
+45
+Enter the marks of student 3.
+65
+Enter the marks of student 4.
+21
+Enter the marks of student 5.
+67
+[21, 23, 45, 65, 67]
+
+
+
+
+
+#Output for Question5a
+The Initial list is
+['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+The final list after removing element Black From the above list is 
+['Red', 'Green', 'White', 'Pink', 'Yellow']
+
+
+
+
+#Output for question 5b
+The Initial list is
+['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+The final list after replacing black and pink with purple is
+['Red', 'Green', 'White', 'Purple', 'Yellow']
+
+
+
+
+
+
